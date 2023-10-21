@@ -1,3 +1,4 @@
+![](cover.jpg)
 # NORTHWIND TRADERS DASHBOARD
 For the Maven Northwind Challenge, you'll be working as a BI Developer for Northwind Traders, a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world.
 
@@ -19,7 +20,7 @@ b) By developing KPI's and measuring against them
 * Employee KPI - 7 days lead time per order
 
 ## Visualization
-[here](https://app.powerbi.com/view?r=eyJrIjoiOTIyNGI4NTMtZjYxZS00ZDMxLWIwNjYtM2MzNmM4MGRlYjkyIiwidCI6Ijc5M2EyYzE5LTY4N2ItNGJmOS05ZTBlLWJkOTU3YmE3ZDgxMyJ9)
+[https://app.powerbi.com/view?r=eyJrIjoiOTIyNGI4NTMtZjYxZS00ZDMxLWIwNjYtM2MzNmM4MGRlYjkyIiwidCI6Ijc5M2EyYzE5LTY4N2ItNGJmOS05ZTBlLWJkOTU3YmE3ZDgxMyJ9](northdash.jpg)
 
 ## Insights
 * Sales have dropped compared to January to April sales
