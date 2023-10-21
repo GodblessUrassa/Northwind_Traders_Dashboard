@@ -20,14 +20,15 @@ b) By developing KPI's and measuring against them
 * Employee KPI - 7 days lead time per order
 
 ## Visualization
-[https://app.powerbi.com/view?r=eyJrIjoiOTIyNGI4NTMtZjYxZS00ZDMxLWIwNjYtM2MzNmM4MGRlYjkyIiwidCI6Ijc5M2EyYzE5LTY4N2ItNGJmOS05ZTBlLWJkOTU3YmE3ZDgxMyJ9](northdash.jpg)
+**Click the image to interact**
+[![](northdash.jpg)](https://app.powerbi.com/view?r=eyJrIjoiOTIyNGI4NTMtZjYxZS00ZDMxLWIwNjYtM2MzNmM4MGRlYjkyIiwidCI6Ijc5M2EyYzE5LTY4N2ItNGJmOS05ZTBlLWJkOTU3YmE3ZDgxMyJ9)
 
 ## Insights
 * Sales have dropped compared to January to April sales
-* Products in beverages and dairy products categories have good sales while grain & cereal, produce, and condiments have poor sales
-* Number of new customers have been dropping from year to year
+* Products in beverages and dairy products categories have high sales while grain & cereal, produce, and condiments products have poor sales
+* Number of new customers have been dropping from year to year. 2013 had 67 new customers and 2014 had 21 new customers
 * Customer value has increased by 1.47%
-* Average lead time below the target, 8 days of lead time per order
+* Average lead time is below the target, 8 days of lead time per order
 * Speedy express have lower average shipping cost compared to others
 * Average shipping cost is expected to rise to $282.36 from $249.77
 
