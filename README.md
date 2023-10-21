@@ -24,14 +24,14 @@ b) By developing KPI's and measuring against them
 [![](northdash.jpg)](https://app.powerbi.com/view?r=eyJrIjoiOTIyNGI4NTMtZjYxZS00ZDMxLWIwNjYtM2MzNmM4MGRlYjkyIiwidCI6Ijc5M2EyYzE5LTY4N2ItNGJmOS05ZTBlLWJkOTU3YmE3ZDgxMyJ9)
 
 ## Insights
-* Sales have dropped compared to January to April sales
-* Products in beverages and dairy products categories have high sales while grain & cereal, produce, and condiments products have poor sales
+* Sales have dropped from May to December
+* Generally Products in beverages and dairy products categories have high sales while grain & cereal, produce, and condiments products have poor sales. Beverages have an increase of 22.13% from previuos month
 * Number of new customers have been dropping from year to year. 2013 had 67 new customers and 2014 had 21 new customers
-* Customer value has increased by 1.47%
+* Generally Customer value has increased by 1.47%
 * Average lead time is below the target, 8 days of lead time per order
 * Speedy express have lower average shipping cost compared to others
 * Average shipping cost is expected to rise to $282.36 from $249.77
 
 ## Recommendations
-* Reconstruct Marketing strategy. Sales have dropped, number of new customers is declining. The management have to reconstruct the marketing strategy to return on truck
-* The should consider to use speedy express because they have low average freight and the cost is expected to rise in the next year.
+* Reconstruct Marketing strategy. This is because the Sales have dropped and number of new customers is declining. The management have to reconstruct the marketing strategy to return on track
+* The company should consider to use speedy express because they have low average freight and it may be conducive in the coming year since the cost is expected to rise.
